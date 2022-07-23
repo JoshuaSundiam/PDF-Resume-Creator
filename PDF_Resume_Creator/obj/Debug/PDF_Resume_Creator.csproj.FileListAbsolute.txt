@@ -13,3 +13,6 @@ C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.exe
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.pdb
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.Form2.resources
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\itextsharp.dll
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\itextsharp.xml

@@ -1,4 +1,6 @@
-﻿using System;
+﻿using iTextSharp.text;
+using iTextSharp.text.pdf;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -43,7 +45,22 @@ namespace PDF_Resume_Creator
             {
                 if (sfd.ShowDialog() == DialogResult.OK)
                 {
-                   richTextBox1.Text.Document
+                  iTextSharp.text.Document doc = new iTextSharp.text.Document(PageSize.A4.Rotate());
+                    try
+                    {
+                        PdfWriter.GetInstance(doc, new FileStream(sfd.FileName, FileMode.Create));  
+                        doc.Open();
+                        doc.Add(new iTextSharp.text.Paragraph(richTextBox1.Text));
+                    }
+                    catch (Exception ex)
+                    {
+
+                        MessageBox.Show(ex.Message, "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                    }
+                    finally
+                    {
+                        doc.Close();
+                    }
                 }
             }
         }
