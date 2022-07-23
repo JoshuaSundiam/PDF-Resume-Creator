@@ -1,0 +1,14 @@
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\PDF_Resume_Creator.exe.config
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\PDF_Resume_Creator.exe
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\PDF_Resume_Creator.pdb
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.AssemblyReference.cache
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.Form1.resources
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.Properties.Resources.resources
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.GenerateResource.cache
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.CoreCompileInputs.cache
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.CopyComplete
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.exe
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.pdb
