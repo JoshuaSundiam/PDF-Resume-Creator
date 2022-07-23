@@ -52,12 +52,9 @@ namespace PDF_Resume_Creator
             string json = JsonConvert.SerializeObject(p1, Formatting.Indented);
 
             listPersons.Add(p1);
-            //File.WriteAllText(@"C:\Users\JOSHUA\Desktop\New folder.json", json);
-            string location = @"C:\Users\JOSHUA\Desktop\Contact Tracing\QR CODE";
-            var dialog = new SaveFileDialog();
-            dialog.InitialDirectory = location;
-            dialog.Filter = "JSON| *.json";
-          
+            File.WriteAllText(@"C:\Users\JOSHUA\Desktop\New folder.json", json);
+
+
         }
         class Person
         {
@@ -95,6 +92,12 @@ namespace PDF_Resume_Creator
         private void label15_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form2 form = new Form2();
+            form.Show();
         }
     }
     }

@@ -12,3 +12,4 @@ C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.csproj.CopyComplete
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.exe
 C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.pdb
+C:\Users\JOSHUA\source\repos\PDF_Resume_Creator\PDF_Resume_Creator\obj\Debug\PDF_Resume_Creator.Form2.resources
