@@ -26,27 +26,8 @@ namespace PDF_Resume_Creator
 
         private void SaveJsonFilebtn_Click(object sender, EventArgs e)
         {
-        List<Person> listPersons = new List<Person>();
- //           try
- //           {
- //Person p1 = new Person()
- //           {
- //               name = NameBox.Text,
- //               contactNo = Convert.ToInt16(ContactBox.Text),
- //               Email = EmailBox.Text,  
- //               Personal_Info = PersonalInfoBox.Text,
- //               educBackground = EducBgBox.Text,
- //           };
- //           string json = JsonConvert.SerializeObject(p1, Formatting.Indented);
-          
- //           listPersons.Add(p1);
- //           File.WriteAllText(@"C:\Users\JOSHUA\Desktop\C# PDF Resume.json",json);
- //           }
- //           catch (Exception)
- //           {
+            List<Person> listPersons = new List<Person>();
 
- //               MessageBox.Show("error");
- //           }
             Person p1 = new Person()
             {
                 name = NameBox.Text,
@@ -65,9 +46,10 @@ namespace PDF_Resume_Creator
             public string name;
             public string contactNo;
 
-            public string Email; 
+            public string Email;
             public string Personal_Info;
             public string educBackground;
         }
+    }
     }
 }
